@@ -4,7 +4,7 @@ I am a master's student planning to pursue a Ph.D. I am currently working as an 
 
 - 🔭 Deep learning, Reinforcement learning, Operations research and optimization
 - ⛏️ Python, C++, Linux
-- 📫 2112108014@mail2.gdut.edu.cn
+- 📫 lw_chen98@163.com
 - 🏫 Guangdong University of Technology
 
 ### 📊 GitHub Stats & 🛠️ Languages and Tools:
