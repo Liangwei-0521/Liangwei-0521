@@ -5,7 +5,7 @@ I am a PhD student whose research focuses on Deep Reinforcement Learning, AIGC, 
 - 🔭 Deep learning, Reinforcement learning, Operations research and optimization
 - ⛏️ Python, C++, Linux
 - 📫 lw_chen98@163.com
-- 🏫 Guangdong University of Technology
+- 🏫 Shenzhen University
 
 ### 📊 GitHub Stats & 🛠️ Languages and Tools:
 <div align="center">
