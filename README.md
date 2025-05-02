@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Liangwei!
 
-I am a master's student planning to pursue a Ph.D. I am currently working as an AI Algorithm Engineer at a leading company and am always looking for new challenges and growth opportunities
+I am a PhD student whose research focuses on Deep Reinforcement Learning, AIGC, and Information Science, and I continue to follow the latest developments in AI and aspire to contribute to that community!
 
 - 🔭 Deep learning, Reinforcement learning, Operations research and optimization
 - ⛏️ Python, C++, Linux
