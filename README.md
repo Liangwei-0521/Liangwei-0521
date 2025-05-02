@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Liangwei!
 
-I am a PhD student whose research focuses on Deep Reinforcement Learning, AIGC, and Information Science, and I continue to follow the latest developments in AI and aspire to contribute to that community!
+I am a PhD student whose research focuses on Deep Reinforcement Learning, AIGC, Information Science and Operations research and optimization, and I continue to follow the latest developments in AI and aspire to contribute to that community!
 
-- 🔭 Deep learning, Reinforcement learning, Operations research and optimization
-- ⛏️ Python, C++, Linux
+- ⛏️ Python, C++, Linux, Cplex, Gurobi
 - 📫 lw_chen98@163.com
 - 🏫 Shenzhen University
 
